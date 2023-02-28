@@ -1180,14 +1180,14 @@ svg.slider-shape {
 }
 
 .feature-item .title {
-    color: #ffffff;
+    color:  #6780b1;
     transition: .8s ease;
     font-size: 18px;
     font-weight: bold;
 }
 
 .feature-item p {
-    color: #ffffff;
+    color:  #6780b1;
     font-weight: 300;
     font-size: 14px;
     line-height: 23px;
