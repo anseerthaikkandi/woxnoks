@@ -1696,7 +1696,7 @@ svg.slider-shape {
 }
 
 .contact-sec .heading {
-    color: #ffffff;
+    color: #7e8084;
     font-size: 48px;
     margin-bottom: 40px;
     font-weight: bold;
@@ -1719,18 +1719,18 @@ svg.slider-shape {
 
 .contact-sec .contact-form .form-control:focus {
     box-shadow: none;
-    border-bottom: 1px solid #ffffff;
+    border-bottom: 1px solid #7e8084;
 }
 
 .contact-sec .contact-form input::placeholder, .contact-sec .contact-form textarea::placeholder {
-    color: #ffffff;
+    color: #7e8084;
     font-size: 14px;
 }
 
 .contact-sec .contact-form textarea {
     padding-top: 20px;
     height: 150px;
-    color: #ffffff;
+    color: #7e8084;
     font-size: 16px;
     resize: none;
     background: transparent;
@@ -1768,7 +1768,7 @@ svg.slider-shape {
 }
 
 .contact-sec .contact-details .text {
-    color: #ffffff;
+    color: #7e8084;
     font-size: 17px;
     font-weight: normal;
 }
@@ -1780,7 +1780,7 @@ svg.slider-shape {
 }
 
 .contact-sec .contact-details ul li {
-    color: #ffffff;
+    color: #7e8084;
     list-style: none;
     margin-bottom: 22px;
     font-size: 16px;
@@ -1806,7 +1806,7 @@ svg.slider-shape {
     font-size: 30px;
     margin-right: 20px;
     margin-bottom: 8px;
-    color: #ffffff;
+    color: #7e8084;
 }
 
 /* ===================================
